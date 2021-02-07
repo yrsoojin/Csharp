@@ -1,0 +1,10 @@
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\bin\Debug\CalcPrj.exe.config
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\bin\Debug\CalcPrj.exe
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\bin\Debug\CalcPrj.pdb
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\obj\Debug\CalcPrj.csprojAssemblyReference.cache
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\obj\Debug\CalcPrj.Form1.resources
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\obj\Debug\CalcPrj.Properties.Resources.resources
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\obj\Debug\CalcPrj.csproj.GenerateResource.cache
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\obj\Debug\CalcPrj.csproj.CoreCompileInputs.cache
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\obj\Debug\CalcPrj.exe
+C:\Users\Soojin\source\repos\CalcPrj\CalcPrj\obj\Debug\CalcPrj.pdb
